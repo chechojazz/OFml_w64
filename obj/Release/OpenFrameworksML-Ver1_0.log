@@ -1,0 +1,105 @@
+﻿  ofxOscBundle.cpp
+  ofxOscMessage.cpp
+  ofxOscParameterSync.cpp
+  ofxOscReceiver.cpp
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscMessage.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscMessage.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscBundle.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscReceiver.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscBundle.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscReceiver.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscMessage.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscMessage.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscMessage.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscMessage.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscReceiver.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscReceiver.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscReceiver.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscReceiver.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscBundle.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscBundle.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscBundle.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscBundle.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+c:\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(52): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscBundle.cpp)
+c:\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscBundle.cpp)
+c:\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(52): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+c:\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+  ofxOscSender.cpp
+  IpEndpointName.cpp
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  NetworkingUtils.cpp
+  UdpSocket.cpp
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\ip\win32\NetworkingUtils.cpp(88): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock2.h(2238): note: see declaration of 'gethostbyname'
+  OscOutboundPacketStream.cpp
+  OscPrintReceivedElements.cpp
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.cpp(363): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.cpp(605): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.cpp(625): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  OscReceivedElements.cpp
+  OscTypes.cpp
+  logisticRegression.cpp
+  main.cpp
+..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\libs\oscpack\src\osc\OscPrintReceivedElements.cpp(129): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscSender.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscSender.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscSender.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscSender.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscSender.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscSender.cpp)
+  NeuralNetworks.cpp
+..\OpenFrameworksML-Ver1.0\src\NeuralNetworks.cpp(22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+..\OpenFrameworksML-Ver1.0\src\NeuralNetworks.cpp(35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(52): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscSender.cpp)
+c:\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\..\..\..\..\of_v0.9.8_vs_release\addons\ofxOsc\src\ofxOscSender.cpp)
+c:\users\david\documents\github\openframeworksml-ver1.0\src\logisticregression.cpp(81): warning C4700: uninitialized local variable 'probFloat' used
+  ofApp.cpp
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\main.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\main.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\main.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\main.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\main.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\main.cpp)
+  SVM.cpp
+c:\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(52): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\main.cpp)
+c:\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\main.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\ofApp.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\ofApp.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\ofApp.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\ofApp.cpp)
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\ofApp.cpp)
+  utils.cpp
+C:\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\ofApp.cpp)
+..\OpenFrameworksML-Ver1.0\src\utils.cpp(74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(52): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\ofApp.cpp)
+c:\of_v0.9.8_vs_release\addons\ofxosc\src\ofxOscBundle.h(53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ..\OpenFrameworksML-Ver1.0\src\ofApp.cpp)
+     Creating library bin\OpenFrameworksML-Ver1_0.lib and object bin\OpenFrameworksML-Ver1_0.exp
+logisticRegression.obj : error LNK2001: unresolved external symbol "public: void __cdecl cv::Mat::copyTo(class cv::_OutputArray const &)const " (?copyTo@Mat@cv@@QEBAXAEBV_OutputArray@2@@Z)
+ofApp.obj : error LNK2001: unresolved external symbol "public: void __cdecl cv::Mat::copyTo(class cv::_OutputArray const &)const " (?copyTo@Mat@cv@@QEBAXAEBV_OutputArray@2@@Z)
+utils.obj : error LNK2001: unresolved external symbol "public: void __cdecl cv::Mat::copyTo(class cv::_OutputArray const &)const " (?copyTo@Mat@cv@@QEBAXAEBV_OutputArray@2@@Z)
+logisticRegression.obj : error LNK2001: unresolved external symbol "public: void __cdecl cv::Mat::convertTo(class cv::_OutputArray const &,int,double,double)const " (?convertTo@Mat@cv@@QEBAXAEBV_OutputArray@2@HNN@Z)
+utils.obj : error LNK2001: unresolved external symbol "public: void __cdecl cv::Mat::convertTo(class cv::_OutputArray const &,int,double,double)const " (?convertTo@Mat@cv@@QEBAXAEBV_OutputArray@2@HNN@Z)
+utils.obj : error LNK2001: unresolved external symbol "class cv::_InputOutputArray const & __cdecl cv::noArray(void)" (?noArray@cv@@YAAEBV_InputOutputArray@1@XZ)
+utils.obj : error LNK2001: unresolved external symbol "public: static struct cv::Ptr<class cv::ml::TrainData> __cdecl cv::ml::TrainData::create(class cv::_InputArray const &,int,class cv::_InputArray const &,class cv::_InputArray const &,class cv::_InputArray const &,class cv::_InputArray const &,class cv::_InputArray const &)" (?create@TrainData@ml@cv@@SA?AU?$Ptr@VTrainData@ml@cv@@@3@AEBV_InputArray@3@H00000@Z)
+bin\OpenFrameworksML-Ver1_0.exe : fatal error LNK1120: 4 unresolved externals
